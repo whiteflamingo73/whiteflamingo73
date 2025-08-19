@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @whiteflamingo73
-- 👀 I’m interested in all science related stuffs
-- 🌱 I’m currently learning python and how to effectively breed kuhli loaches
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me: no where
-- 😄 Pronouns: she/her/they/them
-- ⚡ Fun fact: I take too many science classes at school
+One of the many trans girls who like coding, 
+not good at it tho, only kinda know python.
+
+Also like fish and all things science;
+and want to get into game dev.
+
+Pronouns: she/her/they/them
 
 <!---
 whiteflamingo73/whiteflamingo73 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
