@@ -1,4 +1,4 @@
- One of the many trans girls who like coding, /
+ One of the many trans girls who like coding,  
  not good at it tho, only kinda know python.
 
  Also like fish and all things science; /
